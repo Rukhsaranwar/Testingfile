@@ -1,6 +1,6 @@
 # test_script.py
 
-def say_hello():
+de say_hello():
     print("Hello from Jenkins test script!, v2")
 
 if __name__ == "__main__":
